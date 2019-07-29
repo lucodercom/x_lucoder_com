@@ -1,0 +1,19 @@
+body{
+    width:80%;
+    min-width:600px;
+    max-width:1000px;
+    margin:auto;
+    padding: 1em;
+}
+code {
+    display: block;
+    padding: 1em;
+    background-color: black;
+    color: white;
+    margin-top: 1em;
+}
+.strongger{
+    background-color: bisque;
+    padding:0.2em;
+    border-radius: 0.2em;
+}
